@@ -1,0 +1,14 @@
+{
+    "name": "muzk6/composer-test",
+    "description": "composer test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "muzk6",
+            "email": "muzk6x@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
