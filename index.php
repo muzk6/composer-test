@@ -1,0 +1,3 @@
+<?php
+
+echo 'composer-test';
